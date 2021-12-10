@@ -7,3 +7,4 @@ vegetables = "cucumbers, peppers, onions"
 apples = 3.14
 
 #boolean
+time = false
