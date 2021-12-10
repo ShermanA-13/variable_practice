@@ -11,3 +11,6 @@ time = false
 
 #arrays
 test_array = [0, 1, 2, 3, 4]
+
+#hash
+oil = {"1" => "Olive", "2" => "Avacado"}
