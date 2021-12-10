@@ -8,3 +8,6 @@ apples = 3.14
 
 #boolean
 time = false
+
+#arrays
+test_array = [0, 1, 2, 3, 4]
